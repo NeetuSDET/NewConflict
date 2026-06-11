@@ -235,4 +235,6 @@ Writing objects: 100% (8/8), 816 bytes | 816.00 KiB/s, done.
 Total 8 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
 To github.com:NeetuSDET/NewConflict.git
    03e4d13..a853a3b  main -> main
-(base) rajnishatrismbp:NewConflict rajnishkhatri$ 
+(base) rajnishatrismbp:NewConflict rajnishkhatri$
+
+tq
